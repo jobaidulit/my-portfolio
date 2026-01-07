@@ -75,3 +75,15 @@ nav .menu a{
     max-width: 585px;
     vertical-align: middle;
 }
+
+#about{
+    padding-top: 130px;
+}
+#about .about_contain{
+    width: 70%;
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #fff8f3;
+    padding: 131px 156px;
+}
